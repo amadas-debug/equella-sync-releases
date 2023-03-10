@@ -1,0 +1,8 @@
+node_modules/*
+bower/*
+.idea/*
+app.asar
+sh.exe.stackdump
+
+out/
+dist/
